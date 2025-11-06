@@ -1,4 +1,4 @@
-baseURL               = "https://nav.linlin7.dpdns.org /"
+baseURL               = "https://nav.linlin7.dpdns.org/"
 languageCode          = "zh-CN"
 title                 = "TeamWork"
 theme                 = "WebStack-Hugo"
