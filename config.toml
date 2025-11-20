@@ -1,6 +1,6 @@
 baseURL               = "https://nav.xy188.vip/"
 languageCode          = "zh-CN"
-title                 = "TeamWork"
+title                 = "XYC 导航"
 theme                 = "WebStack-Hugo"
 preserveTaxonomyNames = true
 disablePathToLower    = true
@@ -9,13 +9,13 @@ publishDir            = "public"				# 站点静态文件保存目录
 
 
 [params]
-    author        = "shenweiyan"
-    description   = "TeamWork | Hugo 主题 BY NavCore"
-    upload        = ""      # 左侧导航栏的"网站提交"
-    about         = ""	          # 左侧导航栏的"关于导航"页面(./about)
+    author        = "xyc8899"
+    description   = "XYC Space | Hugo 主题 BY NavCore"
+    upload        = "/"      # 左侧导航栏的"网站提交"
+    about         = "/"	          # 左侧导航栏的"关于导航"页面(./about)
     repository    = ""  
     enablePreLoad = true					# 网站完全打开前预加载动画
-    textPreLoad   = "TeamCore 再创辉煌"				# 预加载的动画文字, 只有当enablePreLoad=true时生效
+    textPreLoad   = "XYC 欢迎你"				# 预加载的动画文字, 只有当enablePreLoad=true时生效
     expandSidebar = false					# 默认展开左侧边导航栏
     logosPath     = "assets/images/logos"			# 网站每个导航地址logo存放地址
     defaultLogo   = "assets/images/logos/default.webp"		# logo图片资源不存在或者错误时, 默认显示的logo; 该参数如为空,将会一直加载对应的logo,直至成功
@@ -24,14 +24,14 @@ publishDir            = "public"				# 站点静态文件保存目录
     fancybox      = true                                        # 使用 Fancybox 实现图片灯箱/放大功能
 
 [params.seo]    
-    baiduhmid       = 'efccc04cb44fc49faddac5876180b369'	# 百度统计 hm.src 的 ID
-    baiduSiteVer    = 'codeva-cCAOSG8MBO'			# 百度HTML标签验证(baidu-site-verification)
+    baiduhmid       = ''	# 百度统计 hm.src 的 ID
+    baiduSiteVer    = ''			# 百度HTML标签验证(baidu-site-verification)
     tj51laid        = ''                        		# 51.LA 网站统计
     tj51lack        = ''
     GoogleAdsClient = ''					# Google AdSense 
 
 [params.qweather]
-    key = "085791e805a24491b43b06cf58ab31e7"
+    key = ""
 
 [params.images]
     favicon           = "assets/images/bi-favicon.png"
@@ -45,5 +45,11 @@ publishDir            = "public"				# 站点静态文件保存目录
 [markup.goldmark.renderer]
     unsafe = true
 
+[params.search]
+  enable = true
+  
+[params.darkmode]
+  enable = false
+  
 [params.footer]
-    copyright = '本站导航内容仅供参考，如有侵权请联系删除。<br/>&copy; 2021 - {year} Powered by WebStack-Hugo | 本站不存储任何用户数据。'
+    copyright = '本站导航内容仅供自用 <br/>&copy; 2018 - {year} Powered by WebStack-Hugo | Welcome XYC'
