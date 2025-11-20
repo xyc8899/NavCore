@@ -1,5 +1,3 @@
----
-
 - taxonomy: 官方网址
   icon: far fa-star
   links: 
@@ -49,7 +47,6 @@
       qrcode: qrcode.jpg
       description: 微信公众号：苏苏凡凡
 
-        
 - taxonomy: 官方开奖网站
   icon: fa-brands fa-files-pinwheel
   list:
@@ -57,7 +54,7 @@
       links:
         - title: 新IG彩票
           logo: fa.jpg
-          url: http://v.qq.com/
+          url: https://dfaward888.com/record/BSC/IG3PK10/
           description: 新IG彩票官方开奖网址
         - title: 新澳门六合彩
           logo: aomen.png
@@ -66,7 +63,7 @@
         - title: 香港六合彩
           logo: hk.png
           url: https://www.dfaward888.com/record/LHC/XGLHC/
-          description: 香港六合彩官方开奖网          
+          description: 香港六合彩官方开奖网
 
 - taxonomy: 安卓安装包
   icon: fad fa-android
@@ -74,56 +71,56 @@
     - term: 数字钱包
       links:
         - title: OKpay
-          logo: 战地之王.png
+          logo: framer.png
           url: https://csj.one/ok
           description: OK钱包
         - title: TOpay
-          logo: 战地之王.png
+          logo: flinto.png
           url: https://csj.one/to
           description: TO钱包
-       - title: JDpay
-         logo: ''
-         url: https://csj.one/jd
-         description: 京东钱包
-       - title: KDpay
-         logo: ''
-         url: https://sink007.webn.cc/kd/
-         description: K豆钱包
-       - title: CBpay
-         logo: 战地之王.png
-         url: https://csj.one/cb
-         description: CB钱包
-       - title: GOpay
-         logo: 战地之王.png
-         url: https://csj.one/go
-         description: GO钱包
-       - title: OBpay
-         logo: ''
-         url: https://csj.one/ob
-         description: OB钱包
-       - title: AGpay
-         logo: ''
-         url: https://csj.one/ag
-         description: AG钱包
-       - title: WBpay
-         logo: 战地之王.png
-         url: https://csj.one/wb
-         description: 万币钱包
-       - title: OKX
-         logo: 战地之王.png
-         url: https://csj.one/oy
-         description: 欧易交易所
-  - term: VPN安装包
-    links:  
-      - title: 快帆VPN
-        logo: ''
-        url: https://csj.one/kuaifan
-        description: 扬帆回国，快人一步
-      - title: 快连VPN
-        logo: ''
-        url: https://csj.one/kuailian
-        description: 永远能连上的VPN
-      
+        - title: JDpay
+          logo: framer.png
+          url: https://csj.one/jd
+          description: 京东钱包
+        - title: KDpay
+          logo: flinto.png
+          url: https://sink007.webn.cc/kd/
+          description: K豆钱包
+        - title: CBpay
+          logo: framer.png
+          url: https://csj.one/cb
+          description: CB钱包
+        - title: GOpay
+          logo: flinto.png
+          url: https://csj.one/go
+          description: GO钱包
+        - title: OBpay
+          logo: framer.png
+          url: https://csj.one/ob
+          description: OB钱包
+        - title: AGpay
+          logo: flinto.png
+          url: https://csj.one/ag
+          description: AG钱包
+        - title: WBpay
+          logo: framer.png
+          url: https://csj.one/wb
+          description: 万币钱包
+        - title: OKX
+          logo: flinto.png
+          url: https://csj.one/oy
+          description: 欧易交易所
+    - term: VPN安装包
+      links:
+        - title: 快帆VPN
+          logo: ''
+          url: https://csj.one/kuaifan
+          description: 扬帆回国，快人一步
+        - title: 快连VPN
+          logo: ''
+          url: https://csj.one/kuailian
+          description: 永远能连上的VPN
+
 - taxonomy: 悠闲娱乐
   icon: fas fa-film fa-lg
   list:
@@ -155,7 +152,7 @@
           description: 163 网易云音乐。
         - title: 百度贴吧
           logo: 百度贴吧.jpg
-          url: ttps://tieba.baidu.com/index.html
+          url: https://tieba.baidu.com/index.html
           description: 百度贴吧。
     - term: 网盘资源
       links:
@@ -173,7 +170,7 @@
           description: 家庭云|网盘|文件备份|资源分享。
         - title: 坚果云
           logo: 坚果云.png
-          usrl: https://www.jianguoyun.com/
+          url: https://www.jianguoyun.com/
           description: 坚果云官网。
     - term: 在线工具
       links:
@@ -184,9 +181,4 @@
         - title: IPlark
           url: https://iplark.com/
           logo: v2ex.jpg
-          description: iplark          
-
-
-
-
-        
+          description: iplark
