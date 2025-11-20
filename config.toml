@@ -34,7 +34,7 @@ publishDir            = "public"				# 站点静态文件保存目录
     key = ""
 
 [params.images]
-    favicon           = "assets/images/px-collapse.png"
+    favicon           = "assets/images/bi-favicon.png"
     searchImageL      = "assets/images/bg-dna.jpg"		# 搜索部分浅色背景图
     searchImageD      = "assets/images/bg-dna.jpg"		# 搜索部分深色背景图
     logoExpandLight   = "assets/images/px-expand-dark.png"
