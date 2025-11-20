@@ -48,8 +48,27 @@
       url: https://mp.weixin.qq.com/
       qrcode: qrcode.jpg
       description: 微信公众号：苏苏凡凡
-        
 
+        
+- taxonomy: 官方开奖网站
+  icon: fas fa-film fa-lg
+  list:
+    - term: 大发开奖网
+      links:
+        - title: 新IG彩票
+          logo: fa.jpg
+          url: http://v.qq.com/
+          description: 新IG彩票官方开奖网址
+        - title: 新澳门六合彩
+          logo: aomen.png
+          url: https://www.dfaward888.com/record/LHC/MOLHC/
+          description: 新澳门六合彩官方开奖网 
+        - title: 香港六合彩
+          logo: hk.png
+          url: https://www.dfaward888.com/record/LHC/XGLHC/
+          description: 香港六合彩官方开奖网          
+
+          
 - taxonomy: 悠闲娱乐
   icon: fas fa-film fa-lg
   list:
@@ -103,10 +122,14 @@
           description: 坚果云官网。
     - term: 在线工具
       links:
-        - title: tinypng
-          url: https://tinypng.com/
-          logo: tinypng.png
-          description: Optimize your images with a perfect balance in quality and file size.
+        - title: IP138查询网
+          url: https://ip138.com/
+          logo: v2ex.jpg
+          description: 查询位置
+        - title: IPlark
+          url: https://iplark.com/
+          logo: v2ex.jpg
+          description: iplark          
 
 
 
