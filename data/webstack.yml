@@ -48,7 +48,7 @@
       description: 微信公众号：苏苏凡凡
 
 - taxonomy: 官方开奖网站
-  icon: fa-brands fa-files-pinwheel
+  icon: far fa-random
   links: 
     - title: 新IG彩票开奖
       logo: fa.jpg
@@ -59,12 +59,12 @@
       url: https://www.dfaward888.com/record/LHC/MOLHC/
       description: 新澳门六合彩官方开奖网 
     - title: 香港六合彩
-      logo: hk.png
+      logo: hk2.png
       url: https://www.dfaward888.com/record/LHC/XGLHC/
       description: 香港六合彩官方开奖网
 
 - taxonomy: 安卓安装包
-  icon: fad fa-android
+  icon: far fa-tablet-alt
   list:
     - term: 数字钱包
       links:
@@ -108,7 +108,7 @@
           logo: flinto.png
           url: https://csj.one/oy
           description: 欧易交易所
-    - term: VPN安装包
+    - term: VPN安装包&小聊
       links:
         - title: 快帆VPN
           logo: ''
@@ -118,6 +118,10 @@
           logo: ''
           url: https://csj.one/kuailian
           description: 永远能连上的VPN
+        - title: 任小聊
+          logo: ''
+          url: https://xy188.vip/xiaoliao
+          description: 端到端加密的内部安全通信
 
 - taxonomy: 悠闲娱乐
   icon: fas fa-film fa-lg
@@ -152,24 +156,6 @@
           logo: 百度贴吧.jpg
           url: https://tieba.baidu.com/index.html
           description: 百度贴吧。
-    - term: 网盘资源
-      links:
-        - title: 百度网盘
-          logo: 百度网盘.jpg
-          url: http://pan.baidu.com/
-          description: https://pan.baidu.com/.
-        - title: 阿里云盘
-          logo: 阿里云盘.png
-          url: https://www.aliyundrive.com/
-          description: 阿里云盘，你的数字世界。
-        - title: 天翼云盘
-          logo: 天翼云盘.jpg
-          url: https://cloud.189.cn/
-          description: 家庭云|网盘|文件备份|资源分享。
-        - title: 坚果云
-          logo: 坚果云.png
-          url: https://www.jianguoyun.com/
-          description: 坚果云官网。
     - term: 在线工具
       links:
         - title: IP138查询网
