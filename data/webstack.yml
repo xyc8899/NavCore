@@ -51,7 +51,7 @@
 
         
 - taxonomy: 官方开奖网站
-  icon: fas fa-film fa-lg
+  icon: fa-brands fa-files-pinwheel
   list:
     - term: 大发开奖网
       links:
@@ -69,7 +69,7 @@
           description: 香港六合彩官方开奖网          
 
 - taxonomy: 安卓安装包
-  icon: fas fa-film fa-lg
+  icon: fad fa-android
   list:
     - term: 数字钱包
       links:
