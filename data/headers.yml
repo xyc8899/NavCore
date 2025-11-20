@@ -1,16 +1,1 @@
-- item: 首页
-  icon: fa fa-home
-  link: "./"
 
-- item: Lucky
-  icon: fa fa-book
-  link: https://xyff.dpdns.org/
-
-- item: 大本营
-  icon: fa fa-cog
-  link: ""
-  list:
-    - name: XYC
-      url: https://agorg8.dpdns.org/
-    - name: CSJ
-      url: https://nav-work.brunzey061128.workers.dev/
