@@ -49,21 +49,19 @@
 
 - taxonomy: 官方开奖网站
   icon: fa-brands fa-files-pinwheel
-  list:
-    - term: 大发开奖网
-      links:
-        - title: 新IG彩票
-          logo: fa.jpg
-          url: https://dfaward888.com/record/BSC/IG3PK10/
-          description: 新IG彩票官方开奖网址
-        - title: 新澳门六合彩
-          logo: aomen.png
-          url: https://www.dfaward888.com/record/LHC/MOLHC/
-          description: 新澳门六合彩官方开奖网 
-        - title: 香港六合彩
-          logo: hk.png
-          url: https://www.dfaward888.com/record/LHC/XGLHC/
-          description: 香港六合彩官方开奖网
+  links: 
+    - title: 新IG彩票开奖
+      logo: fa.jpg
+      url: https://dfaward888.com/record/BSC/IG3PK10/
+      description: 新IG彩票官方开奖网址
+    - title: 新澳门六合彩
+      logo: aomen.png
+      url: https://www.dfaward888.com/record/LHC/MOLHC/
+      description: 新澳门六合彩官方开奖网 
+    - title: 香港六合彩
+      logo: hk.png
+      url: https://www.dfaward888.com/record/LHC/XGLHC/
+      description: 香港六合彩官方开奖网
 
 - taxonomy: 安卓安装包
   icon: fad fa-android
