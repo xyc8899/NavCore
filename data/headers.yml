@@ -1,1 +1,13 @@
+- item: Welcome XYC
+  icon: fa fa-home
+  link: ""
+  target: _blank
 
+- item: VIP会员专享
+  icon: fa fa-cog
+  link: ""
+  list:
+    - name: 小电影频道
+      url: ""
+    - name: 联系上级
+      url: ""
