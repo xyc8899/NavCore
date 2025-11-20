@@ -68,7 +68,62 @@
           url: https://www.dfaward888.com/record/LHC/XGLHC/
           description: 香港六合彩官方开奖网          
 
-          
+- taxonomy: 安卓安装包
+  icon: fas fa-film fa-lg
+  list:
+    - term: 数字钱包
+      links:
+        - title: OKpay
+          logo: 战地之王.png
+          url: https://csj.one/ok
+          description: OK钱包
+        - title: TOpay
+          logo: 战地之王.png
+          url: https://csj.one/to
+          description: TO钱包
+       - title: JDpay
+         logo: ''
+         url: https://csj.one/jd
+         description: 京东钱包
+       - title: KDpay
+         logo: ''
+         url: https://sink007.webn.cc/kd/
+         description: K豆钱包
+       - title: CBpay
+         logo: 战地之王.png
+         url: https://csj.one/cb
+         description: CB钱包
+       - title: GOpay
+         logo: 战地之王.png
+         url: https://csj.one/go
+         description: GO钱包
+       - title: OBpay
+         logo: ''
+         url: https://csj.one/ob
+         description: OB钱包
+       - title: AGpay
+         logo: ''
+         url: https://csj.one/ag
+         description: AG钱包
+       - title: WBpay
+         logo: 战地之王.png
+         url: https://csj.one/wb
+         description: 万币钱包
+       - title: OKX
+         logo: 战地之王.png
+         url: https://csj.one/oy
+         description: 欧易交易所
+  - term: VPN安装包
+    links:  
+      - title: 快帆VPN
+        logo: ''
+        url: https://csj.one/kuaifan
+        description: 扬帆回国，快人一步
+      - title: 快连VPN
+        logo: ''
+        url: https://csj.one/kuailian
+        description: 永远能连上的VPN
+      
 - taxonomy: 悠闲娱乐
   icon: fas fa-film fa-lg
   list:
